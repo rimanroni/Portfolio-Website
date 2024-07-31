@@ -1,0 +1,25 @@
+[
+    {   "id":1,
+        "img" :"https://i.ibb.co/Z1RjX0Q/js.png",
+        "title" :"Vanilla JavaScript",
+        "desc" : "I have a strong proficiency in JavaScript, covering approximately 80% of its functionalities. This includes expertise in essential aspects required for web development, such as working with arrays, objects, functions, and various DOM manipulation techniques. I am also skilled in using JavaScript libraries and frameworks like React. With this knowledge, I can create fully functional and interactive websites, ensuring they are dynamic, responsive, and user-friendly. My experience encompasses the entire web development process, from design to deployment."
+    },
+    {
+        "id":2,
+        "img" :"https://i.ibb.co/gdp6ZpF/react.png",
+        "title" :"React",
+        "desc" : "I have a strong proficiency in React, covering approximately 80% of its functionalities. This includes expertise in building components, managing state, handling props, and utilizing hooks to create dynamic and responsive user interfaces. I am skilled in using React to develop fully functional and interactive websites, ensuring they are user-friendly and efficient. My knowledge enables me to handle various aspects of React development, making me well-equipped to contribute effectively to web development projects."
+    },
+    {
+        "id":3,
+        "img" :"https://i.ibb.co/2tCXjbb/nodejs.png",
+        "title" :"Node.js",
+        "desc" : "I have proficiency in Node.js, which enables me to develop server-side applications efficiently. This includes experience in setting up and managing servers, handling requests and responses, working with middleware, and integrating with databases. My skills in Node.js allow me to create scalable and high-performance backend solutions, contributing effectively to the development of full-stack web applications."
+    },
+    {
+        "id":4,
+        "img" :"https://i.ibb.co/6vjgLmY/mongo.png",
+        "title" :"MongoDB",
+        "desc" : "I have proficiency in MongoDB, which enables me to effectively manage and interact with NoSQL databases. This includes experience in designing schemas, performing CRUD operations, indexing, and aggregating data. My skills in MongoDB allow me to create scalable and efficient database solutions, contributing to the overall performance and reliability of full-stack web applications."
+    }
+]
